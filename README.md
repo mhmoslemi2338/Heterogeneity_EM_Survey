@@ -43,4 +43,9 @@ The following dependencies are required to run the calibration code:
 
 Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `Dataset` directory. For each dataset, create a new subdirectory inside `Input/Dataset` containing `train.csv`, `valid.csv`, and `test.csv` files.
 
+# Plots
+
+After completing each experiment:
+1. Save the output scores.
+2. Use the `plot.ipynb` notebook located in each folder to visualize the results.
 
