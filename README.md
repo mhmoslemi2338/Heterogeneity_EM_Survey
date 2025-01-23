@@ -41,7 +41,7 @@ The following dependencies are required to run the calibration code:
 ------
 # Data
 
-Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `Dataset` directory. For each dataset, create a new subdirectory inside `Input/Dataset` containing `train.csv`, `valid.csv`, and `test.csv` files.
+Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `Dataset` directory. For each dataset, create a new subdirectory inside `Dataset` containing `train.csv`, `valid.csv`, and `test.csv` files.
 
 # Plots
 
