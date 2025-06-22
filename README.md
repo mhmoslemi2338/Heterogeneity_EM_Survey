@@ -1,4 +1,4 @@
-# Heterogeneity in Entity Matching (HEM)
+# Official implementation of the paper "Heterogeneity in Entity Matching: A Survey and Experimental Analysis"
 
 ## Overview
 
