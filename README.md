@@ -1,5 +1,8 @@
 # Official implementation of the paper "Heterogeneity in Entity Matching: A Survey and Experimental Analysis"
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
+
 ## Overview
 
 This repository contains the code and supplementary resources for the paper [**"Heterogeneity in Entity Matching: A Survey and Experimental Analysis"**]. Our work examines the challenges posed by data heterogeneity in entity matching (EM), providing a comprehensive survey and experimental analysis. We introduce Heterogeneous EM (HEM), a framework for systematically categorizing and addressing heterogeneity in EM, and evaluate existing methods while proposing future directions for advancing the field.
